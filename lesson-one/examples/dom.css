@@ -1,0 +1,27 @@
+body
+{
+	font-family: sans-serif;
+	color: #5577aa;
+	background-color: #000033;
+	text-align:center;
+}
+
+a
+{
+	color: #7799dd;
+}
+
+table
+{
+	margin: 0 auto;
+}
+
+tr, td
+{
+	border: 1px solid #5577aa;
+}
+
+.small-image
+{
+	width: 400px;
+}
