@@ -1,0 +1,21 @@
+body
+{
+	font-family: sans-serif;
+	color: #57a;
+	background-color: #003;
+	text-align:center;
+}
+
+a
+{
+	color: #79d;
+}
+
+table
+{
+	margin: 0 auto;
+}
+
+tr, td
+{
+}
