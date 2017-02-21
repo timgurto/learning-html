@@ -1,0 +1,32 @@
+body {
+    color: #FC8EAC;
+    background-color: #D6587B; 
+    font-family: verdana;
+    font-size: 150%;
+    text-align:center;
+   
+}
+.class1{
+    border: 3px dotted #CAFFB6;
+    display: inline-block;
+}
+.class2{
+    font-family: Comic Sans MS, sans-serif;
+    font-size: 300%;
+    color: #891031;
+}
+.blink_me {
+    animation: blinker 0.2s linear infinite;
+}
+
+@keyframes blinker {  
+    50% { opacity: 0; }
+}
+.doge{
+    display: block;
+    margin: 0 auto;
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
