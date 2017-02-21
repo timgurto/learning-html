@@ -2,6 +2,7 @@
 
 ##Required installations: 
 **Git:** https://git-scm.com/book/en/v2/Getting-Started-Installing-Git 
+
 **Some kind of text editor:** Here you have a range of options. Lately I've been playing with VSCode, which is quite nice. 
 
 ##Setting up this project. 
