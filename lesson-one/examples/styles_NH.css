@@ -16,11 +16,11 @@ body {
     color: #891031;
 }
 .blink_me {
-    animation: blinker 0.2s linear infinite;
+    animation: blinker .2s linear infinite;
 }
 
 @keyframes blinker {  
-    50% { opacity: 0; }
+    50% { color: #3FFF33; }
 }
 .doge{
     display: block;
