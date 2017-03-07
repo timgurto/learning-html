@@ -23,3 +23,4 @@
 
 Once you have reached this point, put your hand up and ask your teacher for more instructions. 
 
+To update your fork each week, follow these steps: https://help.github.com/articles/syncing-a-fork/
